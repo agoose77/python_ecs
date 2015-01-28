@@ -1,6 +1,3 @@
-TAG_PREFIX = "TAG_"
-
-
 class SystemManager:
     
     def __init__(self):
